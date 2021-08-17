@@ -5,6 +5,8 @@
 ## Arrays
 
 <ol>
-<li> [Reverse a given Array](../blob/main/Code/Arrays/ArrayReverse.java) </li>
+<li> 
+[Reverse a given Array](../blob/main/Code/Arrays/ArrayReverse.java) </li>
 <li> [Find the min and max of an array with least comparisons](../blob/main/Code/Arrays/MinMaxArray.java)</li>
 </ol>
+[Reverse a given Array](../blob/main/Code/Arrays/ArrayReverse.java)
