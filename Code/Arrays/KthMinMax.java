@@ -46,6 +46,7 @@ public class KthMinMax {
         System.out.println(k + "th Maximum in the Array is " + arr[arr.length - k]);
     }
 
+    /* Using QuickSort logic instead of in built Array.sort() function */
     public static void main(String[] args) {
         /* int[] arr = new int[] { 9867, 45, 234, 10, 356, 659, 8684, 9954 }; */
         int[] arr = new int[] { 7, 10, 4, 3, 20, 15 };

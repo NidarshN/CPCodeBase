@@ -1,6 +1,6 @@
 # Code Directory
 
-### Contains the Code written in Python, Java or C
+### Contains the Code written in Java
 
 ## Arrays
 
